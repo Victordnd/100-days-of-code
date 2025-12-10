@@ -19,7 +19,7 @@
 **Link to work:** [https://github.com/Victordnd/Advent-Of-Code-2025/commit/453ea118e02ecf41ddd51444907b42b7fa07c8d6]
 
 
-### Day 2: Dec 09, 2025 tuesday
+### Day 2: Dec 09, 2025 Tuesday
 
 
 **Today's Progress**: First star in day 2 of advent of code.
@@ -27,4 +27,13 @@
 **Thoughts:** I had a bit of trouble understanding today’s task because of my English, but I think I’m doing really well in this challenge and I’ve learned a lot of new Python tricks.
 
 **Link to work:** [https://github.com/Victordnd/Advent-Of-Code-2025/commit/9bcee2a1dd296f40d985a255a5dd07c1a35f5a66]
+
+### Day 3: Dec 10, 2025 Wednesday
+
+
+**Today's Progress**: Second star in day 2 of advent of code.
+
+**Thoughts:** Another day, another problem. This time I had a little trouble finding a tool for an idea I had. It took longer than usual, but it worked in the end. .
+
+**Link to work:** [https://github.com/Victordnd/Advent-Of-Code-2025/commit/7609174b9a79b7659146f85fc61185b9023bd38a]
 
