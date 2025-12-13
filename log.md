@@ -37,3 +37,15 @@
 
 **Link to work:** [https://github.com/Victordnd/Advent-Of-Code-2025/commit/7609174b9a79b7659146f85fc61185b9023bd38a]
 
+### Day 4: Dec 11, 2025 Wednesday FAIL
+
+
+### Day 5: Dec 12, 2025 Wednesday 00:30
+
+
+**Today's Progress**: First star in day 3 of advent of code.
+
+**Thoughts:** I lost the day because I went out with friends to a party and got home after the deadline. I felt pretty guilty, but I ended up doing Advent of Code at midnight. It was a bit easier, but I hope to improve.
+
+**Link to work:** [https://github.com/Victordnd/Advent-Of-Code-2025/commit/1eb6a2b33da72b4224f80e37d52502a1eed822aa]
+
